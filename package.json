@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "uppercatom-letter:convert"
   },
-  "repository": "https://github.com/atom/uppercatom-letter",
+  "repository": "https://github.com/JimmyHavenith/uppercatom-letter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
