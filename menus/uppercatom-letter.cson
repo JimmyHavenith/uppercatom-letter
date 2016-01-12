@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle uppercatom-letter'
+      'command': 'uppercatom-letter:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'uppercatom-letter'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'uppercatom-letter:toggle'
+        }
+      ]
+    ]
+  }
+]
