@@ -1,10 +1,9 @@
 {
   "name": "uppercatom-letter",
   "main": "./lib/uppercatom-letter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This package can convert selected text to uppercase",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "uppercatom-letter:convert"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
